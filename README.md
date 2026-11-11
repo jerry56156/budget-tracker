@@ -1,6 +1,8 @@
 # Budget
 
-A small native macOS app (SwiftUI, macOS 14+) for tracking personal spending.
+This is a personal project that I made for myself to keep track of my own budget.
+
+It is a small native macOS app (SwiftUI, macOS 14+) for tracking personal spending.
 
 - Add expenses quickly (⌘N from anywhere, Enter to save).
 - See this month's spending against your budget, with category totals.
