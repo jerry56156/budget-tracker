@@ -112,3 +112,7 @@ BudgetTests/ Unit tests for the CSV code, file formats, validation, schedules, t
 
 Set the `BUDGET_DATA_DIR` environment variable to another folder (in Xcode: *Product ▸ Scheme ▸ Edit Scheme ▸ Run ▸
 Arguments ▸ Environment Variables*). The app then uses that folder instead of `~/Documents/Budget`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
