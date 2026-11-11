@@ -1,0 +1,30 @@
+# Personal budget data. The app keeps its CSV files in ~/Documents/Budget,
+# outside this repository, but ignore them here too so a stray copy can never be committed.
+*.csv
+Budget-data/
+backups/
+
+# Xcode: per-user state (contains your macOS user name) and build output
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+DerivedData/
+build/
+*.xcresult
+*.dSYM/
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Editor and tool settings
+.vscode/
+.idea/
+
+# Code coverage output
+*.profraw
+*.profdata
